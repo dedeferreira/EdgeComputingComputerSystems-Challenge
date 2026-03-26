@@ -101,10 +101,10 @@ s|10|m|2
 
 ---
 
-## 📁 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```
-📦 smartwatch-esp32
+ smartwatch-esp32
  ┣ 📄 main.ino          # Firmware principal do ESP32
  ┣ 📄 diagram.json      # Diagrama de circuito do Wokwi
  ┣ 📄 libraries.txt     # Bibliotecas utilizadas
@@ -113,7 +113,7 @@ s|10|m|2
 
 ---
 
-## 📚 Bibliotecas Utilizadas
+## Bibliotecas Utilizadas
 
 | Biblioteca | Versão | Uso |
 |---|---|---|
