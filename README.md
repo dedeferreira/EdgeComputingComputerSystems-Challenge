@@ -4,7 +4,7 @@
 **Cainã Sandes Batista - RM:568571**
 **André Rosa Ferreira Filho - RM:567149**
 **Yuri Aroste Fukamachi - RM:567314**
-**Michel Lima Benchimol RM567345**
+**Michel Lima Benchimol - RM567345**
 
 ---
 
