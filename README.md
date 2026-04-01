@@ -1,9 +1,9 @@
 # SmartWatch Simulator — Contador de Passos
 **Edge Computing & Computer Systems | FIAP**  
-**Sprint 2 — Prototipagem Digital e Arquitetura de Sistemas**
-**Cainã Sandes Batista - RM:568571**
-**André Rosa Ferreira Filho - RM:567149**
-**Yuri Aroste Fukamachi - RM:567314**
+**Sprint 2 — Prototipagem Digital e Arquitetura de Sistemas**<br>
+**Cainã Sandes Batista - RM:568571**<br>
+**André Rosa Ferreira Filho - RM:567149**<br>
+**Yuri Aroste Fukamachi - RM:567314**<br>
 **Michel Lima Benchimol - RM567345**
 
 ---
